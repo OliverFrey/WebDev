@@ -1,0 +1,21 @@
+body {
+    background-color: lightgray;
+    font: 1em sans-serif;
+}
+nav ul li {
+    list-style-type: none;
+}
+main {
+    background-color: white;
+    padding: 20px;
+}
+footer {
+}
+h1, h2 {
+    border-bottom: solid thin black;
+    font-family: serif;
+}
+#Inhaltsverzeichnis {
+    background-color: lightgray;
+    border: solid thin gray;
+}
